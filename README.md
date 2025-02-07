@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Banner
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Banner" width="80%">
 </p>
@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hello, I'm Mohammed</h1>
 
 <h3 align="center">💻 Developer | 🌐 Web Enthusiast | 🔐 Security Focused</h3>
-
+ -->
 ---
 
 ## 🚀 Technical Profile
