@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" width="325">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAbd01&show_icons=true&theme=default" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbd01&layout=compact" width="325">
 </p>
 
 ---
