@@ -1,11 +1,11 @@
 # Hi there, I'm Mohammed Abidou 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Full%20Stack%20Developer%20%26%20Cyberdefense&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Secure%20%26%20Intelligent%20Solutions&descSize=18&descColor=fff&descAlignY=55" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;🔒+Cybersecurity+Enthusiast;🌐+Django+%26+REST+API+Expert;⚡+AI+%26+Prompt+Engineering;🎯+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;🛡️+Cyberdefense+Specialist;🔒+CompTIA+Security%2B+Certified;🌐+Django+%26+REST+API+Expert;⚡+SIEM+%26+SOC+Operations;🤖+AI+%26+Prompt+Engineering;🎯+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br>
@@ -19,6 +19,13 @@
   
 </div>
 
+<div align="center">
+  
+  ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=flat-square&logo=comptia&logoColor=white)
+  ![Fortinet FCA](https://img.shields.io/badge/Fortinet_FCA_Cybersecurity-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+  
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
@@ -27,13 +34,15 @@
 <tr>
 <td width="50%">
 
-> **Passionate Computer Engineering Graduate** specializing in networking, web development, and cybersecurity. Experienced in building scalable web applications with Django and integrating cutting-edge AI solutions.
+> **Computer Engineering Graduate & Cyberdefense Specialist** with hands-on experience in SIEM deployment, network security, full-stack web development, and AI integration. Trained at DataProtect/JobInTech on enterprise-grade security solutions, with a proven track record building scalable Django applications.
 
-- 🎓 **Bachelor's in Computer Engineering** - FST Settat (2024-2025)
-- 💼 **Currently:** IT & Web Development Intern at ADVAL Maroc
-- 🔐 **Specialized in:** Cybersecurity, Django REST APIs, AI Integration
-- 🌱 **Learning:** Advanced Cloud Security & MLOps
-- ⚡ **Passion:** Building secure, intelligent web solutions
+- 🎓 **BSc Computer Engineering** — FST Settat (2022-2025)
+- 🛡️ **Latest:** Cyberdefense Trainee at JobInTech × DataProtect
+- 💼 **Previously:** Full-Stack Developer Intern at ADVAL Maroc
+- 🔐 **Certified:** CompTIA Security+ · Fortinet FCA Cybersecurity
+- 🔒 **Specialized in:** SIEM, SOC, Firewalls, Django REST, AI Integration
+- 🌍 **Languages:** Arabic (Native) · French (Fluent) · English (B2)
+- ⚡ **Passion:** Securing & building intelligent web solutions
 
 </td>
 <td width="50%">
@@ -42,14 +51,20 @@
 class MohammedAbidou:
     def __init__(self):
         self.name = "Mohammed Abidou"
-        self.role = "Full Stack Developer"
-        self.location = "Berrechid, Morocco"
-        self.languages = ["Python", "JavaScript", "PHP", "Java"]
-        self.specialties = ["Django", "Cybersecurity", "AI Integration"]
-        self.current_focus = "Building secure, scalable web apps"
+        self.role = "Full Stack Dev & Cyberdefense"
+        self.location = "Berrechid, Morocco 🇲🇦"
+        self.languages = ["Python", "Java", "JavaScript",
+                          "PHP", "Bash", "C"]
+        self.security = ["IBM QRadar", "Palo Alto",
+                         "Fortinet", "Kaspersky EDR"]
+        self.dev_stack = ["Django", "REST APIs", "Azure"]
+        self.certifications = [
+            "CompTIA Security+",
+            "Fortinet FCA Cybersecurity"
+        ]
     
     def say_hi(self):
-        return "Let's build something amazing together! 🚀"
+        return "Let's secure & build something amazing! 🚀"
 ```
 
 </td>
@@ -58,11 +73,38 @@ class MohammedAbidou:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🛡️ Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="300px">
+<img src="https://img.shields.io/badge/CompTIA-Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+<br><br>
+<strong>CompTIA Security+</strong>
+<br>
+<sub>Threat Management · Risk Mitigation · Cryptography · Identity Management</sub>
+</td>
+<td align="center" width="300px">
+<img src="https://img.shields.io/badge/Fortinet-FCA_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+<br><br>
+<strong>Fortinet Certified Associate</strong>
+<br>
+<sub>Network Security · Firewall Configuration · Threat Landscape · FortiGate</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💎 Core Technologies
+### 💎 Programming Languages
 <table>
 <tr>
 <td align="center" width="100px">
@@ -70,8 +112,8 @@ class MohammedAbidou:
 <br><strong>Python</strong>
 </td>
 <td align="center" width="100px">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-<br><strong>Django</strong>
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><strong>Java</strong>
 </td>
 <td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
@@ -80,10 +122,6 @@ class MohammedAbidou:
 <td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
 <br><strong>PHP</strong>
-</td>
-<td align="center" width="100px">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><strong>Java</strong>
 </td>
 <td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
@@ -96,9 +134,79 @@ class MohammedAbidou:
 </tr>
 </table>
 
-### 🎨 Frontend & Design
+### 🛡️ Cybersecurity & Infrastructure
 <table>
 <tr>
+<td align="center" width="120px">
+<img src="https://img.shields.io/badge/IBM-QRadar-054ADA?style=flat-square&logo=ibm&logoColor=white" />
+<br><strong>IBM QRadar</strong>
+<br><sub>SIEM</sub>
+</td>
+<td align="center" width="120px">
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" />
+<br><strong>Zabbix</strong>
+<br><sub>Monitoring</sub>
+</td>
+<td align="center" width="120px">
+<img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white" />
+<br><strong>Palo Alto</strong>
+<br><sub>NGFW</sub>
+</td>
+<td align="center" width="120px">
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+<br><strong>Fortinet</strong>
+<br><sub>NGFW / VPN</sub>
+</td>
+<td align="center" width="120px">
+<img src="https://img.shields.io/badge/Kaspersky-006D5C?style=flat-square&logo=kaspersky&logoColor=white" />
+<br><strong>Kaspersky</strong>
+<br><sub>EP / EDR</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120px">
+<img src="https://img.shields.io/badge/Wallix-1A1A2E?style=flat-square&logoColor=white" />
+<br><strong>Wallix</strong>
+<br><sub>PAM</sub>
+</td>
+<td align="center" width="120px">
+<img src="https://img.shields.io/badge/SafeNet-0072C6?style=flat-square&logoColor=white" />
+<br><strong>SafeNet</strong>
+<br><sub>MFA</sub>
+</td>
+<td align="center" width="120px">
+<img src="https://img.shields.io/badge/Symantec_PGP-FDB511?style=flat-square&logo=symantec&logoColor=black" />
+<br><strong>Symantec PGP</strong>
+<br><sub>Encryption</sub>
+</td>
+<td align="center" width="120px">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><strong>Linux</strong>
+<br><sub>Administration</sub>
+</td>
+<td align="center" width="120px">
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<br><strong>Win Server</strong>
+<br><sub>AD / GPO</sub>
+</td>
+</tr>
+</table>
+
+### 🌐 Networking
+![VLAN](https://img.shields.io/badge/VLAN-2E3440?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-2E3440?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-2E3440?style=for-the-badge)
+![NAT](https://img.shields.io/badge/NAT-2E3440?style=for-the-badge)
+![VPN IPsec](https://img.shields.io/badge/VPN_IPsec-00D9FF?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🎨 Web Development — Frontend & Backend
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br><strong>Django</strong>
+</td>
 <td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br><strong>HTML5</strong>
@@ -122,7 +230,7 @@ class MohammedAbidou:
 </tr>
 </table>
 
-### 🗄️ Database & Cloud
+### 🗄️ Database, Cloud & Tools
 <table>
 <tr>
 <td align="center" width="100px">
@@ -148,7 +256,9 @@ class MohammedAbidou:
 </tr>
 </table>
 
-### 🏆 Certifications & Specializations
+### 🏆 Training & Specializations
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![Fortinet FCA](https://img.shields.io/badge/Fortinet_FCA-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django_Web_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Version Control](https://img.shields.io/badge/Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -167,22 +277,60 @@ class MohammedAbidou:
 ```mermaid
 timeline
     title Mohammed's Professional Timeline
-    2021 : University Studies Begin
+    2021 : Baccalauréat Sciences Expérimentales
          : SMIA at Université Chouaïb Doukkali
-    2022 : DEUST Program
-         : Mathematics, CS & Physics
+    2022 : BSc Computer Engineering
+         : FST Settat
     2023 : Freelance Career Start
-         : WordPress Development
-    2024 : Bachelor's Degree
-         : Computer Engineering FST Settat
-    2025 : Current Role
-         : IT & Web Dev Intern at ADVAL Maroc
+         : WordPress Development on Flippa
+    2024 : Full-Stack Dev Intern
+         : ADVAL Maroc (Apr-Jul)
+    2025-2026 : Cyberdefense Training
+              : JobInTech × DataProtect (Aug-Jan)
+              : CompTIA Security+ & Fortinet FCA
 ```
 
 </div>
 
+### 🔹 Cyberdefense Trainee | **JobInTech × DataProtect**
+*August 2025 — January 2026*
+
+<table>
+<tr>
+<td width="60%">
+
+**Key Achievements:**
+- 🔍 **SIEM Deployment:** Deployed IBM QRadar with 10+ custom threat detection use cases and correlation rules
+- 📡 **Infrastructure Monitoring:** Configured Zabbix with custom templates, dashboards & alert systems on Windows Server
+- 🧱 **Firewall Architecture:** Implemented Palo Alto & Fortinet NGFW with IPsec site-to-site VPN tunnels
+- 🛡️ **Endpoint Security:** Trained on Kaspersky EP/EDR for advanced threat protection
+- 🔐 **Access Control:** Worked with Wallix PAM & SafeNet MFA for privileged access management
+- 🔒 **Encryption:** Deployed Symantec PGP for data protection at rest
+
+</td>
+<td width="40%">
+
+**Technologies Used:**
+```yaml
+SIEM: IBM QRadar
+Monitoring: Zabbix
+Firewall: Palo Alto, Fortinet
+VPN: IPsec Site-to-Site
+Endpoint: Kaspersky EP/EDR
+PAM: Wallix Bastion
+MFA: SafeNet
+Encryption: Symantec PGP
+OS: Windows Server, Linux
+Infra: Active Directory, GPO
+Network: VLAN, DHCP, NAT, DNS
+```
+
+</td>
+</tr>
+</table>
+
 ### 🔹 IT & Web Development Intern | **ADVAL Maroc**
-*April 2025 - Present*
+*April 2024 — July 2024*
 
 <table>
 <tr>
@@ -193,7 +341,7 @@ timeline
 - 🤖 **AI Integration:** Implemented cutting-edge AI APIs for innovative business solutions  
 - ☁️ **Cloud Deployment:** Optimized website performance and security on Azure platform
 - 📊 **Database Design:** Created efficient MySQL database architectures
-- 🎨 **WordPress Mastery:** Developed custom themes and plugins for enhanced functionality
+- 🎨 **WordPress Mastery:** Developed custom themes and plugins with security best practices
 
 </td>
 <td width="40%">
@@ -213,12 +361,54 @@ Tools: Git, VS Code, Postman
 </table>
 
 ### 🔹 Freelance WordPress Developer
-*Ongoing Project-Based Work*
+*July 2023 — July 2024*
 
 - 🌐 **Custom Development:** Created bespoke WordPress solutions for diverse clients
-- 💰 **Marketplace Success:** Built and sold complete digital assets on platforms like Flippa
+- 💰 **Marketplace Success:** Built and sold 5+ complete digital assets on platforms like Flippa
 - 📈 **Brand Development:** Delivered comprehensive branding and web presence packages
 - 🎯 **Client Satisfaction:** Maintained 100% project completion rate with positive feedback
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔬 Featured Project
+
+<div align="center">
+
+### 🛡️ SIEM Deployment & Monitoring Infrastructure
+**End-of-Training Capstone — JobInTech × DataProtect**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**Project Scope:**
+- 📊 Full IBM QRadar deployment: installation, log source configuration, correlation rules, and 10+ detection use cases
+- 📡 Zabbix monitoring setup: custom templates, performance dashboards, and automated alerting
+- 🧱 Secure network architecture with Palo Alto & Fortinet firewalls (IPsec site-to-site VPN)
+- 🔐 Complete endpoint protection stack with Kaspersky, Wallix PAM, and SafeNet MFA
+
+</td>
+<td width="50%">
+
+```mermaid
+graph TD
+    A[🌐 Network Traffic] --> B[🧱 Palo Alto / Fortinet NGFW]
+    B --> C[📊 IBM QRadar SIEM]
+    B --> D[📡 Zabbix Monitoring]
+    C --> E[🚨 Threat Detection]
+    C --> F[📋 Correlation Rules]
+    D --> G[📈 Dashboards & Alerts]
+    H[💻 Endpoints] --> I[🛡️ Kaspersky EP/EDR]
+    I --> C
+    J[👤 Users] --> K[🔐 Wallix PAM + SafeNet MFA]
+    K --> H
+```
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -246,30 +436,34 @@ Tools: Git, VS Code, Postman
 <table>
 <thead>
 <tr>
+<th>🛡️ Cybersecurity & SOC</th>
 <th>🌐 Web Development</th>
-<th>🔒 Cybersecurity</th>
 <th>🤖 AI & Innovation</th>
-<th>📊 Database & Systems</th>
+<th>🖧 Infrastructure</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center">
 <br>
-✅ Full-Stack Architecture<br>
-✅ RESTful API Design<br>
-✅ Responsive UI/UX<br>
-✅ Performance Optimization<br>
-✅ WordPress Customization<br>
+✅ SIEM (IBM QRadar)<br>
+✅ NGFW (Palo Alto, Fortinet)<br>
+✅ Endpoint Security (EDR)<br>
+✅ PAM & MFA Solutions<br>
+✅ VPN IPsec Architecture<br>
+✅ Threat Detection & Response<br>
+✅ Vulnerability Assessment<br>
 <br>
 </td>
 <td align="center">
 <br>
-🛡️ Network Security<br>
-🔐 Secure Coding Practices<br>
-🔒 Data Protection<br>
-🚨 Vulnerability Assessment<br>
-🛠️ Security Tools Integration<br>
+✅ Full-Stack Architecture<br>
+✅ Django & REST API Design<br>
+✅ Responsive UI/UX<br>
+✅ Performance Optimization<br>
+✅ WordPress Customization<br>
+✅ Secure Coding Practices<br>
+✅ Cloud Deployment (Azure)<br>
 <br>
 </td>
 <td align="center">
@@ -283,16 +477,44 @@ Tools: Git, VS Code, Postman
 </td>
 <td align="center">
 <br>
-📈 Database Optimization<br>
-🗃️ Data Architecture<br>
-☁️ Cloud Infrastructure<br>
-🔧 System Administration<br>
+🖥️ Windows Server Admin<br>
+🐧 Linux Administration<br>
+📁 Active Directory & GPO<br>
+🌐 VLAN / DHCP / DNS / NAT<br>
+📡 Zabbix Monitoring<br>
+☁️ Azure Cloud Infra<br>
 📊 Performance Monitoring<br>
 <br>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 Education
+
+<div align="center">
+
+| 🗓️ Period | 🎓 Degree | 🏫 Institution |
+|:---:|:---|:---|
+| **2022 — 2025** | **BSc Computer Engineering** (Licence ST Génie Informatique) | FST Settat |
+| **2021 — 2022** | **DEUG SMIA** (Mathematics, CS & Physics) | Université Chouaïb Doukkali, El Jadida |
+| **2021** | **Baccalauréat Sciences Expérimentales** — Sciences Physiques | High School |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌍 Languages
+
+<div align="center">
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-00D9FF?style=for-the-badge&labelColor=0D1117)
+![French](https://img.shields.io/badge/French-Fluent-00D9FF?style=for-the-badge&labelColor=0D1117)
+![English](https://img.shields.io/badge/English-B2-00D9FF?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -338,33 +560,35 @@ Tools: Git, VS Code, Postman
 
 ```mermaid
 mindmap
-  root((2025 Goals))
+  root((2026 Goals))
+    Cybersecurity Career
+      SOC Analyst Role
+      Advanced SIEM Tuning
+      Incident Response
+      OSCP Certification
     Open Source
-      Contribute to Django projects
-      Build useful tools
-      Community engagement
-    Cybersecurity
-      Advanced penetration testing
-      Security architecture
-      Ethical hacking certifications
-    AI Integration
-      Machine learning workflows
-      Intelligent automation
-      Prompt engineering mastery
+      Contribute to Security Tools
+      Django Security Projects
+      Community Engagement
+    AI & Automation
+      Security Automation (SOAR)
+      ML for Threat Detection
+      Prompt Engineering Mastery
     Career Growth
-      Senior developer role
-      Technical leadership
-      International opportunities
+      Senior Security Engineer
+      Technical Leadership
+      International Opportunities
 ```
 
 </div>
 
 ### 🚀 Roadmap Ahead
-- 🔥 **Contributing** to major open-source Django projects
-- 📚 **Mastering** advanced cybersecurity frameworks and tools
-- 🤖 **Integrating** cutting-edge AI/ML solutions in web applications
-- 🌍 **Building** scalable solutions with global impact
-- 👥 **Mentoring** upcoming developers in the community
+- 🛡️ **Pursuing** SOC Analyst / Security Engineer roles leveraging SIEM & EDR expertise
+- 🔥 **Contributing** to open-source cybersecurity & Django projects
+- 📚 **Advancing** toward OSCP and advanced security certifications
+- 🤖 **Integrating** AI/ML into security operations and automation (SOAR)
+- 🌍 **Building** secure, scalable solutions with global impact
+- 👥 **Mentoring** upcoming developers and security professionals
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -372,7 +596,7 @@ mindmap
 
 <div align="center">
 
-**"The best code is not just functional, it's elegant, secure, and tells a story."**
+**"The best code is not just functional — it's elegant, secure, and tells a story."**
 
 <br>
 
@@ -382,8 +606,9 @@ mindmap
 <br>
 
 **Open for:**
-- 🤝 Collaboration on Django & AI projects
-- 💼 Full-time opportunities in web development
+- 🛡️ SOC Analyst & Cybersecurity positions
+- 🤝 Collaboration on security & Django projects
+- 💼 Full-time opportunities in cybersecurity & web development
 - 🎯 Freelance Django & WordPress projects
 - 🌱 Mentoring and knowledge sharing
 - 🚀 Innovation and startup ventures
