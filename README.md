@@ -1,11 +1,11 @@
 # Hi there, I'm Mohammed Abidou 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Full%20Stack%20Developer%20%26%20Cyberdefense&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Secure%20%26%20Intelligent%20Solutions&descSize=18&descColor=fff&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=200&amp;section=header&amp;text=Full%20Stack%20Developer%20%26%20Cyberdefense&amp;fontSize=40&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Building%20Secure%20%26%20Intelligent%20Solutions&amp;descSize=18&amp;descColor=fff&amp;descAlignY=55" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;🛡️+Cyberdefense+Specialist;🔒+CompTIA+Security%2B+Certified;🌐+Django+%26+REST+API+Expert;⚡+SIEM+%26+SOC+Operations;🤖+AI+%26+Prompt+Engineering;🎯+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=32&amp;duration=2800&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=🚀+Full+Stack+Developer;🛡️+Cyberdefense+Specialist;🔒+CompTIA+Security%2B+Certified;🌐+Django+%26+REST+API+Expert;⚡+SIEM+%26+SOC+Operations;🤖+AI+%26+Prompt+Engineering;🎯+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br>
@@ -80,14 +80,14 @@ class MohammedAbidou:
 <table>
 <tr>
 <td align="center" width="300px">
-<img src="https://img.shields.io/badge/CompTIA-Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA-Security+-FF0000?style=for-the-badge&amp;logo=comptia&amp;logoColor=white" />
 <br><br>
 <strong>CompTIA Security+</strong>
 <br>
 <sub>Threat Management · Risk Mitigation · Cryptography · Identity Management</sub>
 </td>
 <td align="center" width="300px">
-<img src="https://img.shields.io/badge/Fortinet-FCA_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet-FCA_Cybersecurity-EE3124?style=for-the-badge&amp;logo=fortinet&amp;logoColor=white" />
 <br><br>
 <strong>Fortinet Certified Associate</strong>
 <br>
@@ -138,44 +138,44 @@ class MohammedAbidou:
 <table>
 <tr>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/IBM-QRadar-054ADA?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-QRadar-054ADA?style=flat-square&amp;logo=ibm&amp;logoColor=white" />
 <br><strong>IBM QRadar</strong>
 <br><sub>SIEM</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&amp;logo=zabbix&amp;logoColor=white" />
 <br><strong>Zabbix</strong>
 <br><sub>Monitoring</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&amp;logo=paloaltonetworks&amp;logoColor=white" />
 <br><strong>Palo Alto</strong>
 <br><sub>NGFW</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&amp;logo=fortinet&amp;logoColor=white" />
 <br><strong>Fortinet</strong>
 <br><sub>NGFW / VPN</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Kaspersky-006D5C?style=flat-square&logo=kaspersky&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaspersky-006D5C?style=flat-square&amp;logo=kaspersky&amp;logoColor=white" />
 <br><strong>Kaspersky</strong>
 <br><sub>EP / EDR</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Wallix-1A1A2E?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Wallix-1A1A2E?style=flat-square&amp;logoColor=white" />
 <br><strong>Wallix</strong>
 <br><sub>PAM</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/SafeNet-0072C6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/SafeNet-0072C6?style=flat-square&amp;logoColor=white" />
 <br><strong>SafeNet</strong>
 <br><sub>MFA</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Symantec_PGP-FDB511?style=flat-square&logo=symantec&logoColor=black" />
+<img src="https://img.shields.io/badge/Symantec_PGP-FDB511?style=flat-square&amp;logo=symantec&amp;logoColor=black" />
 <br><strong>Symantec PGP</strong>
 <br><sub>Encryption</sub>
 </td>
@@ -185,7 +185,7 @@ class MohammedAbidou:
 <br><sub>Administration</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&amp;logo=windows&amp;logoColor=white" />
 <br><strong>Win Server</strong>
 <br><sub>AD / GPO</sub>
 </td>
@@ -415,16 +415,16 @@ graph TD
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff&amp;icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=00D9FF&amp;fire=00D9FF&amp;currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=00D9FF&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -618,7 +618,7 @@ mindmap
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=120&amp;section=footer" />
 </div>
 
 ---
