@@ -1,11 +1,11 @@
 # Hi there, I'm Mohammed Abidou 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=200&amp;section=header&amp;text=Full%20Stack%20Developer%20%26%20Cyberdefense&amp;fontSize=40&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Building%20Secure%20%26%20Intelligent%20Solutions&amp;descSize=18&amp;descColor=fff&amp;descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Mohammed%20Abidou&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:00D9FF,100:0078D7" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=32&amp;duration=2800&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=🚀+Full+Stack+Developer;🛡️+Cyberdefense+Specialist;🔒+CompTIA+Security%2B+Certified;🌐+Django+%26+REST+API+Expert;⚡+SIEM+%26+SOC+Operations;🤖+AI+%26+Prompt+Engineering;🎯+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;🛡️+Cyberdefense+Specialist;🔒+CompTIA+Security%2B+Certified;🌐+Django+%26+REST+API+Expert;⚡+SIEM+%26+SOC+Operations;🤖+AI+%26+Prompt+Engineering;🎯+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br>
@@ -34,7 +34,7 @@
 <tr>
 <td width="50%">
 
-> **Computer Engineering Graduate & Cyberdefense Specialist** with hands-on experience in SIEM deployment, network security, full-stack web development, and AI integration. Trained at DataProtect/JobInTech on enterprise-grade security solutions, with a proven track record building scalable Django applications.
+> **Computer Engineering Graduate &amp; Cyberdefense Specialist** with hands-on experience in SIEM deployment, network security, full-stack web development, and AI integration. Trained at DataProtect/JobInTech on enterprise-grade security solutions, with a proven track record building scalable Django applications.
 
 - 🎓 **BSc Computer Engineering** — FST Settat (2022-2025)
 - 🛡️ **Latest:** Cyberdefense Trainee at JobInTech × DataProtect
@@ -42,7 +42,7 @@
 - 🔐 **Certified:** CompTIA Security+ · Fortinet FCA Cybersecurity
 - 🔒 **Specialized in:** SIEM, SOC, Firewalls, Django REST, AI Integration
 - 🌍 **Languages:** Arabic (Native) · French (Fluent) · English (B2)
-- ⚡ **Passion:** Securing & building intelligent web solutions
+- ⚡ **Passion:** Securing and building intelligent web solutions
 
 </td>
 <td width="50%">
@@ -51,7 +51,7 @@
 class MohammedAbidou:
     def __init__(self):
         self.name = "Mohammed Abidou"
-        self.role = "Full Stack Dev & Cyberdefense"
+        self.role = "Full Stack Dev and Cyberdefense"
         self.location = "Berrechid, Morocco 🇲🇦"
         self.languages = ["Python", "Java", "JavaScript",
                           "PHP", "Bash", "C"]
@@ -64,7 +64,7 @@ class MohammedAbidou:
         ]
     
     def say_hi(self):
-        return "Let's secure & build something amazing! 🚀"
+        return "Let's secure and build something amazing! 🚀"
 ```
 
 </td>
@@ -80,14 +80,14 @@ class MohammedAbidou:
 <table>
 <tr>
 <td align="center" width="300px">
-<img src="https://img.shields.io/badge/CompTIA-Security+-FF0000?style=for-the-badge&amp;logo=comptia&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA-Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
 <br><br>
 <strong>CompTIA Security+</strong>
 <br>
 <sub>Threat Management · Risk Mitigation · Cryptography · Identity Management</sub>
 </td>
 <td align="center" width="300px">
-<img src="https://img.shields.io/badge/Fortinet-FCA_Cybersecurity-EE3124?style=for-the-badge&amp;logo=fortinet&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet-FCA_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
 <br><br>
 <strong>Fortinet Certified Associate</strong>
 <br>
@@ -134,48 +134,48 @@ class MohammedAbidou:
 </tr>
 </table>
 
-### 🛡️ Cybersecurity & Infrastructure
+### 🛡️ Cybersecurity &amp; Infrastructure
 <table>
 <tr>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/IBM-QRadar-054ADA?style=flat-square&amp;logo=ibm&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-QRadar-054ADA?style=flat-square&logo=ibm&logoColor=white" />
 <br><strong>IBM QRadar</strong>
 <br><sub>SIEM</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&amp;logo=zabbix&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" />
 <br><strong>Zabbix</strong>
 <br><sub>Monitoring</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&amp;logo=paloaltonetworks&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white" />
 <br><strong>Palo Alto</strong>
 <br><sub>NGFW</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&amp;logo=fortinet&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
 <br><strong>Fortinet</strong>
 <br><sub>NGFW / VPN</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Kaspersky-006D5C?style=flat-square&amp;logo=kaspersky&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Kaspersky-006D5C?style=flat-square&logo=kaspersky&logoColor=white" />
 <br><strong>Kaspersky</strong>
 <br><sub>EP / EDR</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Wallix-1A1A2E?style=flat-square&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Wallix-1A1A2E?style=flat-square&logoColor=white" />
 <br><strong>Wallix</strong>
 <br><sub>PAM</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/SafeNet-0072C6?style=flat-square&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/SafeNet-0072C6?style=flat-square&logoColor=white" />
 <br><strong>SafeNet</strong>
 <br><sub>MFA</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Symantec_PGP-FDB511?style=flat-square&amp;logo=symantec&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Symantec_PGP-FDB511?style=flat-square&logo=symantec&logoColor=black" />
 <br><strong>Symantec PGP</strong>
 <br><sub>Encryption</sub>
 </td>
@@ -185,7 +185,7 @@ class MohammedAbidou:
 <br><sub>Administration</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&amp;logo=windows&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
 <br><strong>Win Server</strong>
 <br><sub>AD / GPO</sub>
 </td>
@@ -200,7 +200,7 @@ class MohammedAbidou:
 ![VPN IPsec](https://img.shields.io/badge/VPN_IPsec-00D9FF?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🎨 Web Development — Frontend & Backend
+### 🎨 Web Development — Frontend &amp; Backend
 <table>
 <tr>
 <td align="center" width="100px">
@@ -230,7 +230,7 @@ class MohammedAbidou:
 </tr>
 </table>
 
-### 🗄️ Database, Cloud & Tools
+### 🗄️ Database, Cloud &amp; Tools
 <table>
 <tr>
 <td align="center" width="100px">
@@ -256,7 +256,7 @@ class MohammedAbidou:
 </tr>
 </table>
 
-### 🏆 Training & Specializations
+### 🏆 Training &amp; Specializations
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Fortinet FCA](https://img.shields.io/badge/Fortinet_FCA-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django_Web_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -287,7 +287,7 @@ timeline
          : ADVAL Maroc (Apr-Jul)
     2025-2026 : Cyberdefense Training
               : JobInTech × DataProtect (Aug-Jan)
-              : CompTIA Security+ & Fortinet FCA
+              : CompTIA Security+ &amp; Fortinet FCA
 ```
 
 </div>
@@ -301,10 +301,10 @@ timeline
 
 **Key Achievements:**
 - 🔍 **SIEM Deployment:** Deployed IBM QRadar with 10+ custom threat detection use cases and correlation rules
-- 📡 **Infrastructure Monitoring:** Configured Zabbix with custom templates, dashboards & alert systems on Windows Server
-- 🧱 **Firewall Architecture:** Implemented Palo Alto & Fortinet NGFW with IPsec site-to-site VPN tunnels
+- 📡 **Infrastructure Monitoring:** Configured Zabbix with custom templates, dashboards &amp; alert systems on Windows Server
+- 🧱 **Firewall Architecture:** Implemented Palo Alto &amp; Fortinet NGFW with IPsec site-to-site VPN tunnels
 - 🛡️ **Endpoint Security:** Trained on Kaspersky EP/EDR for advanced threat protection
-- 🔐 **Access Control:** Worked with Wallix PAM & SafeNet MFA for privileged access management
+- 🔐 **Access Control:** Worked with Wallix PAM &amp; SafeNet MFA for privileged access management
 - 🔒 **Encryption:** Deployed Symantec PGP for data protection at rest
 
 </td>
@@ -329,7 +329,7 @@ Network: VLAN, DHCP, NAT, DNS
 </tr>
 </table>
 
-### 🔹 IT & Web Development Intern | **ADVAL Maroc**
+### 🔹 IT &amp; Web Development Intern | **ADVAL Maroc**
 *April 2024 — July 2024*
 
 <table>
@@ -337,7 +337,7 @@ Network: VLAN, DHCP, NAT, DNS
 <td width="60%">
 
 **Key Achievements:**
-- 🚀 **Full-Stack Development:** Built robust web applications using Django & Django REST Framework
+- 🚀 **Full-Stack Development:** Built robust web applications using Django &amp; Django REST Framework
 - 🤖 **AI Integration:** Implemented cutting-edge AI APIs for innovative business solutions  
 - ☁️ **Cloud Deployment:** Optimized website performance and security on Azure platform
 - 📊 **Database Design:** Created efficient MySQL database architectures
@@ -374,7 +374,7 @@ Tools: Git, VS Code, Postman
 
 <div align="center">
 
-### 🛡️ SIEM Deployment & Monitoring Infrastructure
+### 🛡️ SIEM Deployment &amp; Monitoring Infrastructure
 **End-of-Training Capstone — JobInTech × DataProtect**
 
 </div>
@@ -386,7 +386,7 @@ Tools: Git, VS Code, Postman
 **Project Scope:**
 - 📊 Full IBM QRadar deployment: installation, log source configuration, correlation rules, and 10+ detection use cases
 - 📡 Zabbix monitoring setup: custom templates, performance dashboards, and automated alerting
-- 🧱 Secure network architecture with Palo Alto & Fortinet firewalls (IPsec site-to-site VPN)
+- 🧱 Secure network architecture with Palo Alto &amp; Fortinet firewalls (IPsec site-to-site VPN)
 - 🔐 Complete endpoint protection stack with Kaspersky, Wallix PAM, and SafeNet MFA
 
 </td>
@@ -399,7 +399,7 @@ graph TD
     B --> D[📡 Zabbix Monitoring]
     C --> E[🚨 Threat Detection]
     C --> F[📋 Correlation Rules]
-    D --> G[📈 Dashboards & Alerts]
+    D --> G[📈 Dashboards &amp; Alerts]
     H[💻 Endpoints] --> I[🛡️ Kaspersky EP/EDR]
     I --> C
     J[👤 Users] --> K[🔐 Wallix PAM + SafeNet MFA]
@@ -415,16 +415,16 @@ graph TD
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff&amp;icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=00D9FF&amp;fire=00D9FF&amp;currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=00D9FF&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -436,9 +436,9 @@ graph TD
 <table>
 <thead>
 <tr>
-<th>🛡️ Cybersecurity & SOC</th>
+<th>🛡️ Cybersecurity &amp; SOC</th>
 <th>🌐 Web Development</th>
-<th>🤖 AI & Innovation</th>
+<th>🤖 AI &amp; Innovation</th>
 <th>🖧 Infrastructure</th>
 </tr>
 </thead>
@@ -449,16 +449,16 @@ graph TD
 ✅ SIEM (IBM QRadar)<br>
 ✅ NGFW (Palo Alto, Fortinet)<br>
 ✅ Endpoint Security (EDR)<br>
-✅ PAM & MFA Solutions<br>
+✅ PAM &amp; MFA Solutions<br>
 ✅ VPN IPsec Architecture<br>
-✅ Threat Detection & Response<br>
+✅ Threat Detection &amp; Response<br>
 ✅ Vulnerability Assessment<br>
 <br>
 </td>
 <td align="center">
 <br>
 ✅ Full-Stack Architecture<br>
-✅ Django & REST API Design<br>
+✅ Django &amp; REST API Design<br>
 ✅ Responsive UI/UX<br>
 ✅ Performance Optimization<br>
 ✅ WordPress Customization<br>
@@ -479,7 +479,7 @@ graph TD
 <br>
 🖥️ Windows Server Admin<br>
 🐧 Linux Administration<br>
-📁 Active Directory & GPO<br>
+📁 Active Directory &amp; GPO<br>
 🌐 VLAN / DHCP / DNS / NAT<br>
 📡 Zabbix Monitoring<br>
 ☁️ Azure Cloud Infra<br>
@@ -501,7 +501,7 @@ graph TD
 | 🗓️ Period | 🎓 Degree | 🏫 Institution |
 |:---:|:---|:---|
 | **2022 — 2025** | **BSc Computer Engineering** (Licence ST Génie Informatique) | FST Settat |
-| **2021 — 2022** | **DEUG SMIA** (Mathematics, CS & Physics) | Université Chouaïb Doukkali, El Jadida |
+| **2021 — 2022** | **DEUG SMIA** (Mathematics, CS &amp; Physics) | Université Chouaïb Doukkali, El Jadida |
 | **2021** | **Baccalauréat Sciences Expérimentales** — Sciences Physiques | High School |
 
 </div>
@@ -520,7 +520,7 @@ graph TD
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 Passion Projects & Interests
+## 🌟 Passion Projects &amp; Interests
 
 <div align="center">
 
@@ -554,7 +554,7 @@ graph TD
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus & Goals
+## 🎯 Current Focus &amp; Goals
 
 <div align="center">
 
@@ -570,7 +570,7 @@ mindmap
       Contribute to Security Tools
       Django Security Projects
       Community Engagement
-    AI & Automation
+    AI &amp; Automation
       Security Automation (SOAR)
       ML for Threat Detection
       Prompt Engineering Mastery
@@ -583,8 +583,8 @@ mindmap
 </div>
 
 ### 🚀 Roadmap Ahead
-- 🛡️ **Pursuing** SOC Analyst / Security Engineer roles leveraging SIEM & EDR expertise
-- 🔥 **Contributing** to open-source cybersecurity & Django projects
+- 🛡️ **Pursuing** SOC Analyst / Security Engineer roles leveraging SIEM &amp; EDR expertise
+- 🔥 **Contributing** to open-source cybersecurity &amp; Django projects
 - 📚 **Advancing** toward OSCP and advanced security certifications
 - 🤖 **Integrating** AI/ML into security operations and automation (SOAR)
 - 🌍 **Building** secure, scalable solutions with global impact
@@ -592,7 +592,7 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Let's Connect & Collaborate!
+## 📫 Let's Connect &amp; Collaborate!
 
 <div align="center">
 
@@ -606,10 +606,10 @@ mindmap
 <br>
 
 **Open for:**
-- 🛡️ SOC Analyst & Cybersecurity positions
-- 🤝 Collaboration on security & Django projects
-- 💼 Full-time opportunities in cybersecurity & web development
-- 🎯 Freelance Django & WordPress projects
+- 🛡️ SOC Analyst &amp; Cybersecurity positions
+- 🤝 Collaboration on security &amp; Django projects
+- 💼 Full-time opportunities in cybersecurity &amp; web development
+- 🎯 Freelance Django &amp; WordPress projects
 - 🌱 Mentoring and knowledge sharing
 - 🚀 Innovation and startup ventures
 
@@ -618,7 +618,7 @@ mindmap
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=120&amp;section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
 </div>
 
 ---
