@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;🛡️+Cyberdefense+Specialist;🔒+CompTIA+Security%2B+Certified;🌐+Django+%26+REST+API+Expert;⚡+SIEM+%26+SOC+Operations;🤖+AI+%26+Prompt+Engineering;🎯+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+DevOps+%26+DevSecOps;🐍+Backend+Python+%26+APIs;🤖+AI+Agents+%26+Automation;🔒+CompTIA+Security%2B+Certified;🎯+Aiming+for+Forward+Deployed+Engineer" alt="Typing SVG" />
 </div>
 
 <br>
@@ -15,7 +15,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/mohammed-abidou-603284270)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abidou.mohammed03@gmail.com)
   [![Location](https://img.shields.io/badge/🌍_Berrechid-Morocco-00D9FF?style=for-the-badge&labelColor=2E3440)](#)
-  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/yourusername)
+  [![Profile Views](https://komarev.com/ghpvc/?username=MohammedAbd01&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/MohammedAbd01)
   
 </div>
 
@@ -34,15 +34,15 @@
 <tr>
 <td width="50%">
 
-> **Computer Engineering Graduate &amp; Cyberdefense Specialist** with hands-on experience in SIEM deployment, network security, full-stack web development, and AI integration. Trained at DataProtect/JobInTech on enterprise-grade security solutions, with a proven track record building scalable Django applications.
+> **DevOps / DevSecOps & Backend developer** who deploys, secures and operates real applications end to end (Docker, PostgreSQL, nginx/Caddy, TLS). Backed by a 5-month cyberdefense apprenticeship at DataProtect (SIEM, EDR, PAM, firewalls) and a freelance healthcare app delivered from database schema to store submission.
 
 - 🎓 **BSc Computer Engineering** — FST Settat (2022-2025)
-- 🛡️ **Latest:** Cyberdefense Trainee at JobInTech × DataProtect
-- 💼 **Previously:** Full-Stack Developer Intern at ADVAL Maroc
+- 🚀 **Freelance:** PPMF Health Bridge — mobile app + Supabase backend (delivered)
+- 🛡️ **Apprenticeship:** Cyberdefense at JobInTech × DataProtect (5 months)
+- 💼 **Previously:** Developer Intern at ADVAL Maroc (2 Django websites, WordPress support)
 - 🔐 **Certified:** CompTIA Security+ · Fortinet FCA Cybersecurity
-- 🔒 **Specialized in:** SIEM, SOC, Firewalls, Django REST, AI Integration
-- 🌍 **Languages:** Arabic (Native) · French (Fluent) · English (B2)
-- ⚡ **Passion:** Securing and building intelligent web solutions
+- 🎯 **Next:** Forward Deployed Engineer (applied AI), Morocco first
+- 🌍 **Languages:** Arabic (Native) · French (Intermediate) · English (B2)
 
 </td>
 <td width="50%">
@@ -51,20 +51,22 @@
 class MohammedAbidou:
     def __init__(self):
         self.name = "Mohammed Abidou"
-        self.role = "Full Stack Dev and Cyberdefense"
+        self.role = "DevOps / DevSecOps / Backend"
         self.location = "Berrechid, Morocco 🇲🇦"
-        self.languages = ["Python", "Java", "JavaScript",
-                          "PHP", "Bash", "C"]
+        self.languages = ["Python", "TypeScript", "JavaScript",
+                          "PHP", "Java", "Bash"]
+        self.infra = ["Docker", "PostgreSQL", "nginx / Caddy",
+                      "Supabase"]
         self.security = ["IBM QRadar", "Palo Alto",
                          "Fortinet", "Kaspersky EDR"]
-        self.dev_stack = ["Django", "REST APIs", "Azure"]
         self.certifications = [
             "CompTIA Security+",
             "Fortinet FCA Cybersecurity"
         ]
+        self.next_step = "Forward Deployed Engineer"
     
     def say_hi(self):
-        return "Let's secure and build something amazing! 🚀"
+        return "Let's build, deploy and secure something real! 🚀"
 ```
 
 </td>
@@ -108,12 +110,12 @@ class MohammedAbidou:
 <table>
 <tr>
 <td align="center" width="100px">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
 <br><strong>Python</strong>
 </td>
 <td align="center" width="100px">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><strong>Java</strong>
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br><strong>TypeScript</strong>
 </td>
 <td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
@@ -124,17 +126,52 @@ class MohammedAbidou:
 <br><strong>PHP</strong>
 </td>
 <td align="center" width="100px">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br><strong>C</strong>
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><strong>Java</strong>
 </td>
 <td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
 <br><strong>Bash</strong>
 </td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br><strong>C</strong>
+</td>
 </tr>
 </table>
 
-### 🛡️ Cybersecurity &amp; Infrastructure
+### 🚢 DevOps &amp; Infrastructure
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><strong>Docker</strong>
+<br><sub>Compose</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><strong>Linux</strong>
+<br><sub>Administration</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="nginx" />
+<br><strong>nginx</strong>
+<br><sub>Reverse proxy</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logoColor=white" />
+<br><strong>Caddy</strong>
+<br><sub>Reverse proxy / TLS</sub>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+<br><strong>GitHub Actions</strong>
+<br><sub>CI</sub>
+</td>
+</tr>
+</table>
+
+### 🛡️ Cybersecurity &amp; Monitoring
 <table>
 <tr>
 <td align="center" width="120px">
@@ -180,11 +217,6 @@ class MohammedAbidou:
 <br><sub>Encryption</sub>
 </td>
 <td align="center" width="120px">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br><strong>Linux</strong>
-<br><sub>Administration</sub>
-</td>
-<td align="center" width="120px">
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
 <br><strong>Win Server</strong>
 <br><sub>AD / GPO</sub>
@@ -200,12 +232,21 @@ class MohammedAbidou:
 ![VPN IPsec](https://img.shields.io/badge/VPN_IPsec-00D9FF?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🎨 Web Development — Frontend &amp; Backend
+### 🎨 Backend, Frontend &amp; Mobile
 <table>
 <tr>
 <td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
 <br><strong>Django</strong>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br><strong>FastAPI</strong>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+<br><strong>React Native</strong>
+<br><sub>Expo</sub>
 </td>
 <td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -234,6 +275,18 @@ class MohammedAbidou:
 <table>
 <tr>
 <td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br><strong>Supabase</strong>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+<td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
 <br><strong>MySQL</strong>
 </td>
@@ -246,12 +299,12 @@ class MohammedAbidou:
 <br><strong>Git</strong>
 </td>
 <td align="center" width="100px">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="100px">
 <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 <br><strong>Postman</strong>
+</td>
+<td align="center" width="100px">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><strong>VS Code</strong>
 </td>
 </tr>
 </table>
@@ -281,18 +334,48 @@ timeline
          : SMIA at Université Chouaïb Doukkali
     2022 : BSc Computer Engineering
          : FST Settat
-    2023 : Freelance Career Start
-         : WordPress Development on Flippa
-    2024 : Full-Stack Dev Intern
+    2024 : Developer Intern
          : ADVAL Maroc (Apr-Jul)
-    2025-2026 : Cyberdefense Training
-              : JobInTech × DataProtect (Aug-Jan)
-              : CompTIA Security+ &amp; Fortinet FCA
+    2025 : Cyberdefense Apprenticeship
+         : JobInTech × DataProtect (Aug-Jan)
+         : CompTIA Security+ & Fortinet FCA
+    2026 : Freelance Developer
+         : PPMF Health Bridge (delivered)
 ```
 
 </div>
 
-### 🔹 Cyberdefense Trainee | **JobInTech × DataProtect**
+### 🔹 Freelance Developer (Backend &amp; Mobile) | **PPMF Health Bridge**
+*May 2026 — October 2026 · contract completed*
+
+<table>
+<tr>
+<td width="60%">
+
+**Key Achievements:**
+- 📱 **Mobile App:** Bilingual (French / Arabic) healthcare provider map built with React Native / Expo and TypeScript
+- 🗄️ **Backend:** Supabase / PostgreSQL schema with 27 migrations, Row Level Security, auth hooks and an Edge Function
+- 🔒 **Security Fixes:** Closed authorization gaps (admin guard bypass, JWT claims, `SECURITY DEFINER` search path)
+- 📦 **Delivery:** Android and iOS builds with EAS; store submission in progress
+
+</td>
+<td width="40%">
+
+**Technologies Used:**
+```yaml
+Mobile: React Native, Expo, TypeScript
+Backend: Supabase, PostgreSQL
+Security: RLS, JWT, Auth hooks
+Serverless: Supabase Edge Functions
+Delivery: EAS Build (Android / iOS)
+Languages: French, Arabic
+```
+
+</td>
+</tr>
+</table>
+
+### 🔹 Cyberdefense Apprentice (5 months) | **JobInTech × DataProtect**
 *August 2025 — January 2026*
 
 <table>
@@ -301,10 +384,10 @@ timeline
 
 **Key Achievements:**
 - 🔍 **SIEM Deployment:** Deployed IBM QRadar with 10+ custom threat detection use cases and correlation rules
-- 📡 **Infrastructure Monitoring:** Configured Zabbix with custom templates, dashboards &amp; alert systems on Windows Server
-- 🧱 **Firewall Architecture:** Implemented Palo Alto &amp; Fortinet NGFW with IPsec site-to-site VPN tunnels
+- 📡 **Infrastructure Monitoring:** Configured Zabbix with custom templates, dashboards & alert systems on Windows Server
+- 🧱 **Firewall Architecture:** Implemented Palo Alto & Fortinet NGFW with IPsec site-to-site VPN tunnels
 - 🛡️ **Endpoint Security:** Trained on Kaspersky EP/EDR for advanced threat protection
-- 🔐 **Access Control:** Worked with Wallix PAM &amp; SafeNet MFA for privileged access management
+- 🔐 **Access Control:** Worked with Wallix PAM & SafeNet MFA for privileged access management
 - 🔒 **Encryption:** Deployed Symantec PGP for data protection at rest
 
 </td>
@@ -337,20 +420,19 @@ Network: VLAN, DHCP, NAT, DNS
 <td width="60%">
 
 **Key Achievements:**
-- 🚀 **Full-Stack Development:** Built robust web applications using Django &amp; Django REST Framework
-- 🤖 **AI Integration:** Implemented cutting-edge AI APIs for innovative business solutions  
-- ☁️ **Cloud Deployment:** Optimized website performance and security on Azure platform
-- 📊 **Database Design:** Created efficient MySQL database architectures
-- 🎨 **WordPress Mastery:** Developed custom themes and plugins with security best practices
+- 🚀 **Full-Stack Development:** Built 2 websites with Django
+- 🤖 **AI Integration:** Integrated an AI API on Microsoft Azure
+- 🌐 **WordPress Administration &amp; Support:** Administered and supported WordPress websites, applying security best practices
+- 📊 **Database Design:** Designed MySQL databases for the applications
 
 </td>
 <td width="40%">
 
 **Technologies Used:**
 ```yaml
-Backend: Django, Django REST, PHP
+Backend: Django, PHP
 Frontend: HTML5, CSS3, JavaScript
-Database: MySQL, Optimization
+Database: MySQL
 Cloud: Microsoft Azure
 CMS: WordPress
 Tools: Git, VS Code, Postman
@@ -360,22 +442,77 @@ Tools: Git, VS Code, Postman
 </tr>
 </table>
 
-### 🔹 Freelance WordPress Developer
-*July 2023 — July 2024*
-
-- 🌐 **Custom Development:** Created bespoke WordPress solutions for diverse clients
-- 💰 **Marketplace Success:** Built and sold 5+ complete digital assets on platforms like Flippa
-- 📈 **Brand Development:** Delivered comprehensive branding and web presence packages
-- 🎯 **Client Satisfaction:** Maintained 100% project completion rate with positive feedback
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔬 Featured Project
+## 🔬 Featured Projects
+
+<div align="center">
+
+### 🏥 PPMF Health Bridge
+**Freelance contract · bilingual healthcare provider map for Morocco**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**Project Scope:**
+- 📱 React Native / Expo app in French and Arabic, with map and location features
+- 🗄️ 27 versioned SQL migrations on Supabase / PostgreSQL
+- 🔐 Row Level Security policies, a custom auth hook and role-based access (patient, provider, admin)
+- ⚡ Realtime updates and an Edge Function that sends provider invitations
+- 📦 Cloud builds for Android and iOS with EAS
+
+</td>
+<td width="50%">
+
+```mermaid
+graph TD
+    A[📱 Expo / React Native app FR · AR] --> B[🔐 Supabase Auth + auth hook]
+    A --> C[(🗄️ PostgreSQL + RLS)]
+    B --> C
+    C --> D[⚡ Realtime updates]
+    E[✉️ Edge Function: provider invite] --> C
+    F[📦 EAS Build] --> A
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔒 Private case studies
+*Source code is private. Happy to walk through the architecture on request.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 WooCommerce AI Support Agent** *(SaaS)*
+- FastAPI backend + WordPress plugin, linked by a frozen OpenAPI contract
+- Docker Compose stack, Caddy reverse proxy, scheduled backups
+- CI gates on every change, Playwright end-to-end tests
+- Agent evaluation setup for the AI answers
+
+</td>
+<td width="50%">
+
+**🚢 Production VPS Deployment**
+- Docker, PostgreSQL, Redis, nginx, Certbot (TLS) and DNS on a Linux server
+- Debugged an incident across layers: containers, database, proxy, certificates
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 ### 🛡️ SIEM Deployment &amp; Monitoring Infrastructure
-**End-of-Training Capstone — JobInTech × DataProtect**
+**End-of-Apprenticeship Capstone — JobInTech × DataProtect**
 
 </div>
 
@@ -386,7 +523,7 @@ Tools: Git, VS Code, Postman
 **Project Scope:**
 - 📊 Full IBM QRadar deployment: installation, log source configuration, correlation rules, and 10+ detection use cases
 - 📡 Zabbix monitoring setup: custom templates, performance dashboards, and automated alerting
-- 🧱 Secure network architecture with Palo Alto &amp; Fortinet firewalls (IPsec site-to-site VPN)
+- 🧱 Secure network architecture with Palo Alto & Fortinet firewalls (IPsec site-to-site VPN)
 - 🔐 Complete endpoint protection stack with Kaspersky, Wallix PAM, and SafeNet MFA
 
 </td>
@@ -399,7 +536,7 @@ graph TD
     B --> D[📡 Zabbix Monitoring]
     C --> E[🚨 Threat Detection]
     C --> F[📋 Correlation Rules]
-    D --> G[📈 Dashboards &amp; Alerts]
+    D --> G[📈 Dashboards & Alerts]
     H[💻 Endpoints] --> I[🛡️ Kaspersky EP/EDR]
     I --> C
     J[👤 Users] --> K[🔐 Wallix PAM + SafeNet MFA]
@@ -415,16 +552,16 @@ graph TD
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedAbd01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbd01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAbd01&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAbd01&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -436,54 +573,51 @@ graph TD
 <table>
 <thead>
 <tr>
-<th>🛡️ Cybersecurity &amp; SOC</th>
-<th>🌐 Web Development</th>
-<th>🤖 AI &amp; Innovation</th>
-<th>🖧 Infrastructure</th>
+<th>🚢 DevOps &amp; Infrastructure</th>
+<th>🛡️ DevSecOps &amp; Security</th>
+<th>⚙️ Backend &amp; APIs</th>
+<th>🤖 AI Agents &amp; Automation</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center">
 <br>
+✅ Docker &amp; Docker Compose<br>
+✅ Linux Server Administration<br>
+✅ nginx / Caddy Reverse Proxy<br>
+✅ TLS with Certbot &amp; DNS<br>
+✅ PostgreSQL in Production<br>
+✅ CI Pipelines (GitHub Actions)<br>
+✅ Monitoring (Zabbix)<br>
+<br>
+</td>
+<td align="center">
+<br>
+✅ Row Level Security (PostgreSQL)<br>
+✅ Authorization &amp; JWT Hardening<br>
 ✅ SIEM (IBM QRadar)<br>
 ✅ NGFW (Palo Alto, Fortinet)<br>
-✅ Endpoint Security (EDR)<br>
-✅ PAM &amp; MFA Solutions<br>
+✅ EDR, PAM &amp; MFA<br>
 ✅ VPN IPsec Architecture<br>
-✅ Threat Detection &amp; Response<br>
-✅ Vulnerability Assessment<br>
 <br>
 </td>
 <td align="center">
 <br>
-✅ Full-Stack Architecture<br>
 ✅ Django &amp; REST API Design<br>
-✅ Responsive UI/UX<br>
-✅ Performance Optimization<br>
-✅ WordPress Customization<br>
-✅ Secure Coding Practices<br>
-✅ Cloud Deployment (Azure)<br>
+✅ FastAPI &amp; OpenAPI Contracts<br>
+✅ Supabase &amp; SQL Migrations<br>
+✅ Auth Flows &amp; Edge Functions<br>
+✅ Mobile Apps (React Native / Expo)<br>
 <br>
 </td>
 <td align="center">
 <br>
-🧠 Prompt Engineering<br>
-⚡ AI API Integration<br>
-🔮 Generative AI Solutions<br>
-🚀 Innovation Implementation<br>
-🎯 Intelligent Automation<br>
-<br>
-</td>
-<td align="center">
-<br>
-🖥️ Windows Server Admin<br>
-🐧 Linux Administration<br>
-📁 Active Directory &amp; GPO<br>
-🌐 VLAN / DHCP / DNS / NAT<br>
-📡 Zabbix Monitoring<br>
-☁️ Azure Cloud Infra<br>
-📊 Performance Monitoring<br>
+🧠 LLM &amp; AI API Integration<br>
+🤖 AI Support Agents<br>
+📊 Agent Evaluation<br>
+⚡ Workflow Automation (n8n)<br>
+🎯 Prompt Engineering<br>
 <br>
 </td>
 </tr>
@@ -501,7 +635,7 @@ graph TD
 | 🗓️ Period | 🎓 Degree | 🏫 Institution |
 |:---:|:---|:---|
 | **2022 — 2025** | **BSc Computer Engineering** (Licence ST Génie Informatique) | FST Settat |
-| **2021 — 2022** | **DEUG SMIA** (Mathematics, CS &amp; Physics) | Université Chouaïb Doukkali, El Jadida |
+| **2021 — 2022** | **DEUG SMIA** (Mathematics, CS & Physics) | Université Chouaïb Doukkali, El Jadida |
 | **2021** | **Baccalauréat Sciences Expérimentales** — Sciences Physiques | High School |
 
 </div>
@@ -513,7 +647,7 @@ graph TD
 <div align="center">
 
 ![Arabic](https://img.shields.io/badge/Arabic-Native-00D9FF?style=for-the-badge&labelColor=0D1117)
-![French](https://img.shields.io/badge/French-Fluent-00D9FF?style=for-the-badge&labelColor=0D1117)
+![French](https://img.shields.io/badge/French-Intermediate-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![English](https://img.shields.io/badge/English-B2-00D9FF?style=for-the-badge&labelColor=0D1117)
 
 </div>
@@ -543,9 +677,9 @@ graph TD
 <td width="33%" align="center">
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" height="100" alt="Tech Innovation">
 <br><br>
-<strong>🔬 Tech Innovation</strong>
+<strong>🔬 Applied AI</strong>
 <br>
-<em>Exploring emerging technologies and contributing to open-source projects</em>
+<em>Building and learning with AI agents, LLM applications and automation</em>
 </td>
 </tr>
 </table>
@@ -561,34 +695,30 @@ graph TD
 ```mermaid
 mindmap
   root((2026 Goals))
-    Cybersecurity Career
-      SOC Analyst Role
-      Advanced SIEM Tuning
-      Incident Response
-      OSCP Certification
-    Open Source
-      Contribute to Security Tools
-      Django Security Projects
-      Community Engagement
-    AI &amp; Automation
-      Security Automation (SOAR)
-      ML for Threat Detection
-      Prompt Engineering Mastery
-    Career Growth
-      Senior Security Engineer
-      Technical Leadership
-      International Opportunities
+    Career
+      DevOps / DevSecOps role in Morocco
+      Forward Deployed Engineer
+      Client-facing applied AI
+    Engineering Depth
+      Data-intensive systems
+      Reliability and SRE practices
+      Terraform Associate
+    AI & Automation
+      LLM applications with evals
+      AI agents and workflows
+    Languages
+      French interview-ready
+      English C1
 ```
 
 </div>
 
 ### 🚀 Roadmap Ahead
-- 🛡️ **Pursuing** SOC Analyst / Security Engineer roles leveraging SIEM &amp; EDR expertise
-- 🔥 **Contributing** to open-source cybersecurity &amp; Django projects
-- 📚 **Advancing** toward OSCP and advanced security certifications
-- 🤖 **Integrating** AI/ML into security operations and automation (SOAR)
-- 🌍 **Building** secure, scalable solutions with global impact
-- 👥 **Mentoring** upcoming developers and security professionals
+- 🎯 **Pursuing** DevOps / DevSecOps and Backend roles, growing into a **Forward Deployed Engineer** (applied AI) profile, Morocco first
+- 🤖 **Building** AI agents and LLM applications with evaluation, not just demos
+- 📚 **Studying** systems depth: data-intensive applications, reliability and software design
+- ☁️ **Preparing** the Terraform Associate certification
+- 🗣️ **Improving** French (interview level) and English (C1)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -606,12 +736,11 @@ mindmap
 <br>
 
 **Open for:**
-- 🛡️ SOC Analyst &amp; Cybersecurity positions
-- 🤝 Collaboration on security &amp; Django projects
-- 💼 Full-time opportunities in cybersecurity &amp; web development
-- 🎯 Freelance Django &amp; WordPress projects
-- 🌱 Mentoring and knowledge sharing
-- 🚀 Innovation and startup ventures
+- 🎯 DevOps, DevSecOps and Backend positions
+- 🤖 Forward Deployed / Applied-AI engineering roles
+- 🛡️ Security-focused engineering roles (including SOC)
+- 🤝 Freelance backend, automation and AI-agent projects
+- 🌱 Knowledge sharing
 
 </div>
 
